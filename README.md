@@ -1,5 +1,5 @@
 # PS-Azure-SignIn-Log-To-GrayLog
-Gets Azure Sign-in Logs from the last 15 minutes and Sends them to Graylog. 
+Gets Azure AD Sign-in Logs from the last 15 minutes and Sends them to Graylog. 
 
 Set up is a breeze:
 Set up a new application and secret with directory access in Azure AD.
